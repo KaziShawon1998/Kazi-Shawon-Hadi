@@ -2,7 +2,7 @@
 
 ### Economics Researcher | Data Analyst | Teaching Assistant
 
-I am an Economics researcher with experience in **academic research, data analysis, teaching support, statistical reporting, and administrative coordination**. My research interests include **consumer behavior, tourism economics, sustainability, climate change, and evidence-based policy research**.
+I am an Economics researcher with experience in **academic research, data analysis, teaching support, statistical reporting and administrative coordination**. My research interests include **consumer behavior, tourism economics, sustainability, climate change and evidence-based policy research**.
 
 ---
 
@@ -20,7 +20,7 @@ I am an Economics researcher with experience in **academic research, data analys
 
 ---
 
-## 🔬 Research
+## Research
 
 ### Consumer Purchase Intention & Tourist Spending
 
@@ -39,7 +39,7 @@ I am an Economics researcher with experience in **academic research, data analys
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### Graduate Research Assistant
 
@@ -81,7 +81,7 @@ I am an Economics researcher with experience in **academic research, data analys
 
 ---
 
-## 📊 Research & Technical Skills
+## Research & Technical Skills
 
 * Data Analysis
 * Statistical Reporting
@@ -98,7 +98,7 @@ I am an Economics researcher with experience in **academic research, data analys
 
 ---
 
-## 📚 Research Interests
+## Research Interests
 
 * Economics
 * Consumer Behavior
@@ -112,7 +112,7 @@ I am an Economics researcher with experience in **academic research, data analys
 
 ---
 
-## 🏆 Memberships & Certifications
+## Memberships & Certifications
 
 * **Life Member**, Bangladesh Economic Association (BEA)
 * **General Member**, The Aura
@@ -121,7 +121,7 @@ I am an Economics researcher with experience in **academic research, data analys
 
 ---
 
-## 🌱 Volunteering
+## Volunteering
 
 * **Programme Coordinator, Arts and Culture**
   Rajshahi New Govt. Degree College
@@ -131,24 +131,24 @@ I am an Economics researcher with experience in **academic research, data analys
 
 ---
 
-## 🌐 Languages
+## Languages
 
 * **Bengali:** Native
 * **English:** Fluent in reading, writing and speaking
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-* 📧 Email: **[kazi.shawon1998@gmail.com](mailto:kazi.shawon1998@gmail.com)**
-* 💼 LinkedIn: **[Kazi Shawon Hadi](https://www.linkedin.com/in/kazi-shawon-hadi/)**
-* 🔬 ORCID: **[0009-0007-2866-1926](https://orcid.org/0009-0007-2866-1926)**
+* Email: **[kazi.shawon1998@gmail.com](mailto:kazi.shawon1998@gmail.com)**
+* LinkedIn: **[Kazi Shawon Hadi](https://www.linkedin.com/in/kazi-shawon-hadi/)**
+* ORCID: **[0009-0007-2866-1926](https://orcid.org/0009-0007-2866-1926)**
 
 ---
 
-### 💡 Research Philosophy
+### Research Philosophy
 
-> **Research should connect evidence with real-world problems and contribute to better understanding, better decisions, and positive social change.**
+> **Research should connect evidence with real-world problems and contribute to better understanding, better decisions and positive social change.**
 
 ---
 

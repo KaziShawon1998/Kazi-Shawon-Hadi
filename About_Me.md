@@ -152,5 +152,5 @@ I am an Economics researcher with experience in **academic research, data analys
 
 ---
 
-⭐ *Thank you for visiting my GitHub profile!*
+*Thank you for visiting my GitHub profile!*
 

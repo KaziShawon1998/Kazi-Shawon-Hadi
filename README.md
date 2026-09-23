@@ -1,4 +1,4 @@
-# Hi, I'm Kazi Shawon Hadi
+# I'm Kazi Shawon Hadi
 
 ### Economics Researcher | Data Analyst | Teaching Assistant
 

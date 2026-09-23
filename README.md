@@ -1,4 +1,4 @@
-# Hi, I'm Kazi Shawon Hadi 👋
+# Hi, I'm Kazi Shawon Hadi
 
 ### Economics Researcher | Data Analyst | Teaching Assistant
 
@@ -6,7 +6,7 @@ I am an Economics researcher with experience in **academic research, data analys
 
 ---
 
-## 🎓 Education
+## Education
 
 * **M.Sc. in Economics**
   School of Business and Entrepreneurship, Independent University, Bangladesh (IUB) — 2026
